@@ -46,7 +46,7 @@ y = x1 * t1 + x2 * t2
 import plotly.graph_objects as go
 
 fig = go.Figure()
-fig.add_trace(go.Scatter3d(x=t1, y=t2, z=u, mode='lines', name='Предсказание'))
-fig.add_trace(go.Scatter3d(x=t1, y=t2, z=y, mode='lines', name='Истина'))
+fig.add_trace(go.Scatter3d(x=t1, y=t2, z=u, mode='lines', name='Истина'))
+fig.add_trace(go.Scatter3d(x=t1, y=t2, z=y, mode='lines', name='Предсказание'))
 fig.update_layout(scene=dict(xaxis_title='x1', yaxis_title='x2', zaxis_title='Функция'))
 fig.show()
