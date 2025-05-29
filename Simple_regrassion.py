@@ -28,7 +28,6 @@ for epoch in range(1000):
 print("Веса после обучения:", model.weight.data)
 
 # Визуализация результатов
-import matplotlib.pyplot as plt
 import numpy as np
 
 t1 = np.linspace(-500, 500, 1000)
