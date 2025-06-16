@@ -20,3 +20,11 @@ Stilization: задание
 
 ![Снимок экрана от 2025-06-15 12-57-40](https://github.com/user-attachments/assets/ccd6f25a-6ba1-46c1-9f71-b1d85a39cbdc)
 
+K_means: задание
+
+![Снимок экрана от 2025-06-16 14-44-28](https://github.com/user-attachments/assets/7333fbd8-39f6-4b0c-b86d-9e9342637a48)
+![Снимок экрана от 2025-06-16 14-44-28](https://github.com/user-attachments/assets/7333fbd8-39f6-4b0c-b86d-9e9342637a48)
+
+
+
+
