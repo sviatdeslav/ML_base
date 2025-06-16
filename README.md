@@ -16,7 +16,7 @@ Regression_Economic: задание
 ![Снимок экрана от 2025-06-15 12-56-28](https://github.com/user-attachments/assets/93f2a1e3-4e31-49bf-9c9e-077f9f35253a)
 ![Снимок экрана от 2025-06-15 12-56-21](https://github.com/user-attachments/assets/46c50c5f-4a68-4414-8e19-fe94c4280eba)
 
-Stilization: задание
+Stylization: задание
 
 ![Снимок экрана от 2025-06-15 12-57-40](https://github.com/user-attachments/assets/ccd6f25a-6ba1-46c1-9f71-b1d85a39cbdc)
 
