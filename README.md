@@ -23,8 +23,5 @@ Stilization: задание
 K_means: задание
 
 ![Снимок экрана от 2025-06-16 14-44-28](https://github.com/user-attachments/assets/7333fbd8-39f6-4b0c-b86d-9e9342637a48)
-![Снимок экрана от 2025-06-16 14-44-28](https://github.com/user-attachments/assets/7333fbd8-39f6-4b0c-b86d-9e9342637a48)
-
-
 
 
