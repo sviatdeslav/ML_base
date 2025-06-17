@@ -1,13 +1,13 @@
 # ML_base
 Основы ML
 
-Simple_regression: задание. Вычислить значения линейной функции вида y=x1+3*x2. Осуществляется поиск значений коэффициентов при x1 и x2.
+Simple_regression: Вычислить значения линейной функции вида y=x1+3*x2. Осуществляется поиск значений коэффициентов при x1 и x2.
 
-Cifr_identification: задание
+Cifr_identification: Распознать цифры из набора данных MNIST. 
 
 ![Снимок экрана от 2025-06-15 12-48-59](https://github.com/user-attachments/assets/6fb72eed-8a85-4608-a29f-cbc57a74bdc6)
 
-Classification_Cifr10: задание 
+Classification_Cifr10: Рапознать объекты из набора данных Cifr10
 
 ![Снимок экрана от 2025-06-15 12-52-19](https://github.com/user-attachments/assets/6995fff3-3164-4e46-99af-e1347c3041a4)
 
