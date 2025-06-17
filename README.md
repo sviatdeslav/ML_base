@@ -5,11 +5,7 @@ Simple_regression: Вычислить значения линейной функ
 
 Cifr_identification: Распознать цифры из набора данных MNIST. 
 
-![Снимок экрана от 2025-06-15 12-48-59](https://github.com/user-attachments/assets/6fb72eed-8a85-4608-a29f-cbc57a74bdc6)
-
 Classification_Cifr10: Рапознать объекты из набора данных Cifar10
-
-![Снимок экрана от 2025-06-15 12-52-19](https://github.com/user-attachments/assets/6995fff3-3164-4e46-99af-e1347c3041a4)
 
 Regression_Economic: задание
 
